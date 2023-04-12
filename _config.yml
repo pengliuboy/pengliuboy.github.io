@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 title: 大刘的博客 # name of the site
 author: 大刘 # name of site's author
 email: andy84.lau@gmail.com # email of site's author
@@ -25,3 +26,6 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+=======
+theme: jekyll-theme-dinky
+>>>>>>> parent of f5c77ca (Update _config.yml)
