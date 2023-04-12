@@ -1,3 +1,7 @@
+---
+layout: post
+custom_js: mouse_coords
+---
 # 使用Redis限流
 ### 原理
 滑动窗口方式，限制窗口时间内的请求数量；使用Redis的zset数据结构，按照每次请求时间戳作为score存储到zset中
